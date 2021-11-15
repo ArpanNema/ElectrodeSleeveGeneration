@@ -32,8 +32,8 @@ namespace SvgManipulationLogic
     }
     public class Generator
     {
-        string template = @"C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\GenerateFiles\template.svg";
-        string output = @"C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\GenerateFiles\output1.svg";
+        string template = @"<SVG Template path>";
+        string output = @"SVG output path";
         float xPadding = 10;
         float yPadding = 40;
         int conductorCount = 0;
