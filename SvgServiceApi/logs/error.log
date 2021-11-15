@@ -1,0 +1,130 @@
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================
+
+===========================Error Log================================
+
+Message:
+
+Index was outside the bounds of the array.
+
+Stack trace or Other Info:
+
+   at System.String.get_Chars(Int32 index)
+   at SvgManipulationLogic.GeneratePathDValues.removeFirstMove(String d) in C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\GeneratePathDValues.cs:line 208
+
+==============================End========================================

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUzasm8n3Nd6JRnzB2Q7ArKwAx3XUjRyvOdBMaD4i0IL+spVzBtMs7gBV5TBOA6W9EpxroN4mHRvRG+B1GuoQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arpan_svgrhg2\\OneDrive\\Desktop\\Project\\POC\\CSharp\\SvgGeneration\\SvgManipulationLogic\\SvgManipulationLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\rulyotano.math\\1.1.0\\rulyotano.math.1.1.0.nupkg.sha512",
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\arpan_svgrhg2\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\bin\Debug\netcoreapp3.1\SvgManipulationLogic.deps.json
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\bin\Debug\netcoreapp3.1\SvgManipulationLogic.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\bin\Debug\netcoreapp3.1\SvgManipulationLogic.pdb
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.csprojAssemblyReference.cache
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.AssemblyInfoInputs.cache
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.AssemblyInfo.cs
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.csproj.CoreCompileInputs.cache
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgManipulationLogic\obj\Debug\netcoreapp3.1\SvgManipulationLogic.pdb

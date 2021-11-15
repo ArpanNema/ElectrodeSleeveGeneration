@@ -1,0 +1,9 @@
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgGeneration.exe
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgGeneration.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgGeneration.deps.json
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgGeneration.runtimeconfig.json
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgGeneration.pdb
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\MathNet.Numerics.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\Rulyotano.Math.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgManipulationLogic.dll
+C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\SvgGeneration\SvgGeneration\bin\Debug\netcoreapp3.1\publish\SvgManipulationLogic.pdb
