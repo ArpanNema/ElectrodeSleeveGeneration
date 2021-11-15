@@ -12,8 +12,8 @@ namespace SvgServiceApi.Logic
     public class ImageConverter
     {
         public static void convert() {
-            string dataDir = @"C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\CSharp\GenerateFiles";
-            string outputDir = @"C:\Users\arpan_svgrhg2\OneDrive\Desktop\Project\POC\Unity\UnityTest\Assets\GenerateFiles";
+            string dataDir = @"<SVG output folder>";
+            string outputDir = @"<Path to save png converted file>";
 
             using (var document = new SVGDocument(Path.Combine(dataDir, "output1.svg")))
             {
